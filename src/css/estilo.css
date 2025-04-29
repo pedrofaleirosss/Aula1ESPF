@@ -19,6 +19,7 @@ header {
   background: yellow;
   text-align: center;
   padding: 20px;
+  width: 100%;
 }
 
 #containerAsilde {
@@ -48,6 +49,7 @@ aside {
 footer {
   background-color: rgb(12, 202, 12);
   padding: 50px;
+  width: 100%;
 }
 
 @media (min-width: 700px) {
